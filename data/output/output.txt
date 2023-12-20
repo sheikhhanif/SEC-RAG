@@ -1,0 +1,64 @@
+accenture
+{
+  "Total Revenue": "$64,112 million",
+  "Sources of Revenue": [
+    {
+      "Source": "Geographic Markets",
+      "Percentage of Revenue": "100%",
+      "Sub-Sources": [
+        {
+          "Sub-Source": "North America",
+          "Percentage of Revenue": "47%"
+        },
+        {
+          "Sub-Source": "Europe",
+          "Percentage of Revenue": "33%"
+        },
+        {
+          "Sub-Source": "Growth Markets",
+          "Percentage of Revenue": "20%"
+        }
+      ]
+    },
+    {
+      "Source": "Industry Groups",
+      "Percentage of Revenue": "100%",
+      "Sub-Sources": [
+        {
+          "Sub-Source": "Communications, Media & Technology",
+          "Percentage of Revenue": "18%"
+        },
+        {
+          "Sub-Source": "Financial Services",
+          "Percentage of Revenue": "19%"
+        },
+        {
+          "Sub-Source": "Health & Public Service",
+          "Percentage of Revenue": "20%"
+        },
+        {
+          "Sub-Source": "Products",
+          "Percentage of Revenue": "30%"
+        },
+        {
+          "Sub-Source": "Resources",
+          "Percentage of Revenue": "14%"
+        }
+      ]
+    },
+    {
+      "Source": "Type of Work",
+      "Percentage of Revenue": "100%",
+      "Sub-Sources": [
+        {
+          "Sub-Source": "Consulting",
+          "Percentage of Revenue": "52%"
+        },
+        {
+          "Sub-Source": "Managed Services",
+          "Percentage of Revenue": "48%"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+langchain
+openai
+sec-api 
+tiktoken
+sentence-transformers
+faiss-cpu

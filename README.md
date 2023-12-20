@@ -1,7 +1,7 @@
 # Financial Document Analysis Tool: Extract SEC filings using RAG
 
 ## Overview
-This tool is designed to extract specific sections from financial documents (like 10-Q filings) and analyze them using a Retriever-Augmented Generation (RAG) approach. It extracts text from specified sections, processes the text, and then uses a combination of document retrieval and language model inference to answer complex queries about the content.
+This tool is designed to extract specific sections from financial documents (like 10-Q filings) and analyze them using a Retrieval Augmented Generation (RAG) approach. It extracts text from specified sections, processes the text, and then uses a combination of document retrieval and language model inference to answer complex queries about the content.
 
 ## Features
 - **Extraction of Specific Document Sections**: Targeted extraction of sections like 'Part 1, Item 1' from 10-Q filings.
